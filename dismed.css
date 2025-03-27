@@ -1032,12 +1032,6 @@ section,
   margin-top: 40px;
 }
 
-.about .content ul i {
-  flex-shrink: 0;
-  font-size: 48px;
-  color: var(--accent-color);
-  margin-right: 20px;
-}
 
 .about .content ul h5 {
   font-size: 18px;
@@ -1724,6 +1718,3 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
